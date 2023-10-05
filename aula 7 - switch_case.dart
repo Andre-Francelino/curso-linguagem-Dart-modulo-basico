@@ -16,8 +16,8 @@ void main() {
   } else {
     print("Desconhecida...");
   }
-  
 
+// Utilizando o switch/case
   switch(linguagem) {
     case 'Dart':
       print("Linguagem bem legal! Estou aprendendo para usar no estágio.");
